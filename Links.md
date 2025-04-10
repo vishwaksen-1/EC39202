@@ -1,0 +1,1 @@
+- 8051 instruction set - [ISA](https://aeb.win.tue.nl/comp/8051/set8051.html)
