@@ -1,7 +1,11 @@
-In this repository I want to write and save the lab experiment codes for **EC39202 -- Embedded Systems Laboratory** course at **IIT Kharagpur** for reference to juniors.
-I am from the **22 batch**.
+In this repository we're sharing the lab experiment info/codes/etc for **EC39202 -- Embedded Systems Laboratory** course at **IIT Kharagpur** for reference to juniors.
 
-The repository includes the following:
+### Made with ❤️ by the batch of 2022-2026/27
+
+---
+
+
+## The repository includes the following:
 
 ### Misc
 Miscellaneous codes and notes (for those that actually want to learn 🙂)
