@@ -1,0 +1,15 @@
+Lab Test Questions for EC39202 Spring 2025 for all 4 batches
+
+1. Display your room number on a seven segment Display letter by letter followed by the '.' 
+in an infinite loop
+
+2. Design the hardware and the software for the following:
+    The system should take a 4 bit input through port A of 8255 (Least significant 4 bits).
+    It then blinks ONE LED connected to port B of 8255. The number of blinks is equal to the 
+    value read. It should blink with a delay of 0.5 sec. After this number blink, it should 
+    remain turned off for 16 blink cycles. Then again the value is read and the process repeats.
+
+3. Display the PIN code for your Permanent Address on a single seven segement display just like
+problem 1, pin code followed by the '.' in an infinite loop
+
+4. Problem 1, but your roll number instead of room number
